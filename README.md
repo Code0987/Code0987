@@ -1,6 +1,14 @@
 <h1 align="center">Posts</h1>
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Closures in Python](https://dev.to/blugreenspace/understanding-closures-in-python-bbl)
+- [Understanding Python Context Managers](https://dev.to/blugreenspace/understanding-python-context-managers-3cn3)
+- [Understanding Python Generators - Harnessing Lazy Evaluation](https://dev.to/blugreenspace/understanding-python-generators-harnessing-lazy-evaluation-52c)
+- [Zima Blue by Alastair Reynolds - An Existential Exploration](https://dev.to/blugreenspace/zima-blue-by-alastair-reynolds-an-existential-exploration-bp9)
+- [Creating multi-purpose reactive forms with Angular](https://dev.to/blugreenspace/creating-multi-purpose-reactive-forms-with-angular-47ka)
+- [Creating a GitHub Action for a Docker Image](https://dev.to/blugreenspace/creating-a-github-action-for-a-docker-image-4n34)
+- [Introduction to Canvas](https://dev.to/blugreenspace/introduction-to-canvas-4abh)
+- [Welcome folks!](https://dev.to/blugreenspace/welcome-folks-3h05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
