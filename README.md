@@ -23,7 +23,5 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code0987&hide_progress=true&langs_count=6&hide=tsql&size_weight=0.9&count_weight=0.1&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-
   <img align="center" src="https://streak-stats.demolab.com?user=code0987&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
